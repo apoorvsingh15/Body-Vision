@@ -1,0 +1,36 @@
+{
+  "products" : [
+    {
+      "id": 1,
+      "name": "ON Whey",
+      "image": "https://m.media-amazon.com/images/I/616cI2pfTOL._SL1200_.jpg",
+      "price": "6345",
+      "quantity": "8",
+      "description": "100% Whey Protein"
+    },
+    {
+      "id": 2,
+      "name": "ON Whey",
+      "image": "https://m.media-amazon.com/images/I/616cI2pfTOL._SL1200_.jpg",
+      "price": "6345",
+      "quantity": "5",
+      "description": "100% Whey Protein"
+    },
+    {
+      "id": 3,
+      "name": "ON Whey",
+      "image": "https://m.media-amazon.com/images/I/616cI2pfTOL._SL1200_.jpg",
+      "price": "6345",
+      "quantity": "2",
+      "description": "100% Whey Protein"
+    },
+    {
+      "id": 4,
+      "name": "ON Whey",
+      "image": "https://m.media-amazon.com/images/I/616cI2pfTOL._SL1200_.jpg",
+      "price": "6345",
+      "quantity": "1",
+      "description": "100% Whey Protein"
+    }
+  ]
+}
