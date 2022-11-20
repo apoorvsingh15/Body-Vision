@@ -3,6 +3,7 @@
   "rules": {
     "react/jsx-wrap-multilines": "off",
     "operator-linebreak": "off",
+    "no-param-reassign": "off",
     "react/jsx-one-expression-per-line": "off",
     "linebreak-style": ["error", "windows"],
     "import/no-extraneous-dependencies" : "off"
