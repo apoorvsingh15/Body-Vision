@@ -3,6 +3,7 @@
   "rules": {
     "react/jsx-wrap-multilines": "off",
     "operator-linebreak": "off",
-    "react/jsx-one-expression-per-line": "off"
+    "react/jsx-one-expression-per-line": "off",
+    "import/no-extraneous-dependencies" : "off"
   }
 }
