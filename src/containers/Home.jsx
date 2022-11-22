@@ -10,7 +10,7 @@ function Home() {
       <div style={{ display: 'flex', marginTop: 50, justifyContent: 'center' }}>
         <img
           alt="gym"
-          src="http://localhost:3000/background.png"
+          src={`${process.env.PUBLIC_URL}/background.png`}
           style={{ width: '50%', alignSelf: 'center' }}
         />
       </div>
