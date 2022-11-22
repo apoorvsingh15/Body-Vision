@@ -5,11 +5,15 @@ import store from './redux/store';
 
 import AppRoutes from './routes';
 
+import './App.css';
+
 function App() {
   return (
-    <Provider store={store}>
-      <AppRoutes />
-    </Provider>
+    <div className="App">
+      <Provider store={store}>
+        <AppRoutes />
+      </Provider>
+    </div>
   );
 }
 
