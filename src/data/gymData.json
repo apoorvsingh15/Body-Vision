@@ -2,7 +2,7 @@
   "products" : [
     {
       "id": 1,
-      "name": "ON Whey",
+      "name": "ON Whey Protien",
       "image": "https://m.media-amazon.com/images/I/616cI2pfTOL._SL1200_.jpg",
       "price": "6345",
       "quantity": "8",
@@ -10,123 +10,116 @@
     },
     {
       "id": 2,
-      "name": "Quista Pro",
+      "name": "Quista Pro Protien",
       "image": "https://cdn.shopify.com/s/files/1/0272/4714/9155/products/Quista-PRO-Chocolate-Final-1kg_1024x1024.jpg?v=1660224105",
-      "price": "6345",
+      "price": "6125",
       "quantity": "5",
       "description": "100% Whey Protein"
     },
     {
       "id": 3,
-      "name": "Muscle Blaze",
+      "name": "Muscle Blaze Protien",
       "image": "https://m.media-amazon.com/images/I/616cI2pfTOL._SL1200_.jpg",
-      "price": "6345",
+      "price": "5950",
       "quantity": "2",
       "description": "100% Whey Protein"
     },
     {
       "id": 4,
-      "name": "Fit Body",
+      "name": "Fit Body Protien",
       "image": "https://m.media-amazon.com/images/I/616cI2pfTOL._SL1200_.jpg",
-      "price": "6345",
+      "price": "5500",
       "quantity": "1",
       "description": "100% Whey Protein"
     },
     {
       "id": 5,
-      "name": "ON Whey",
-      "image": "https://m.media-amazon.com/images/I/616cI2pfTOL._SL1200_.jpg",
-      "price": "6345",
-      "quantity": "8",
-      "description": "100% Whey Protein"
+      "name": "Muscle Blaze Creatine Monohydrate",
+      "image": "https://m.media-amazon.com/images/I/61VmZJAjRcS._SL1500_.jpg",
+      "price": "2200",
+      "quantity": "2",
+      "description": "100% Creatine Monohydrate"
     },
     {
       "id": 6,
-      "name": "Quista Pro",
-      "image": "https://cdn.shopify.com/s/files/1/0272/4714/9155/products/Quista-PRO-Chocolate-Final-1kg_1024x1024.jpg?v=1660224105",
-      "price": "6345",
-      "quantity": "5",
-      "description": "100% Whey Protein"
+      "name": "Muscle Blaze Muesli",
+      "image": "https://m.media-amazon.com/images/I/71ohau72yeL._SL1500_.jpg",
+      "price": "650",
+      "quantity": "1",
+      "description": " Protien Muesli"
     },
     {
       "id": 7,
-      "name": "Muscle Blaze",
-      "image": "https://m.media-amazon.com/images/I/616cI2pfTOL._SL1200_.jpg",
-      "price": "6345",
+      "name": "Muscle Blaze Oats",
+      "image": "https://m.media-amazon.com/images/I/61JYbpROYpL._SL1500_.jpg",
+      "price": "550",
       "quantity": "2",
-      "description": "100% Whey Protein"
+      "description": "Steel Cut Oats"
     },
     {
       "id": 8,
-      "name": "Fit Body",
-      "image": "https://m.media-amazon.com/images/I/616cI2pfTOL._SL1200_.jpg",
-      "price": "6345",
-      "quantity": "1",
-      "description": "100% Whey Protein"
+      "name": "Muscle Blaze Protien Bar",
+      "image": "https://m.media-amazon.com/images/I/71e2GCO5D-L._SL1500_.jpg",
+      "price": "699",
+      "quantity": "2",
+      "description": "Protien Rich Chocolate Bar"
     },
     {
       "id": 9,
-      "name": "ON Whey",
-      "image": "https://m.media-amazon.com/images/I/616cI2pfTOL._SL1200_.jpg",
-      "price": "6345",
-      "quantity": "8",
-      "description": "100% Whey Protein"
+      "name": "Muscle Blaze Fish Oil",
+      "image": "https://m.media-amazon.com/images/I/61gsPs2jCkL._SL1500_.jpg",
+      "price": "450",
+      "quantity": "1",
+      "description": "Fish Oil Tablets"
     },
     {
       "id": 10,
-      "name": "Quista Pro",
-      "image": "https://cdn.shopify.com/s/files/1/0272/4714/9155/products/Quista-PRO-Chocolate-Final-1kg_1024x1024.jpg?v=1660224105",
-      "price": "6345",
-      "quantity": "5",
-      "description": "100% Whey Protein"
+      "name": "ON Creatine Monohydrate",
+      "image": "https://m.media-amazon.com/images/I/61MjFs7OifL._SL1200_.jpg",
+      "price": "1250",
+      "quantity": "1",
+      "description": "100% Creatine Monohydrate"
     },
     {
       "id": 11,
-      "name": "Muscle Blaze",
-      "image": "https://m.media-amazon.com/images/I/616cI2pfTOL._SL1200_.jpg",
-      "price": "6345",
-      "quantity": "2",
-      "description": "100% Whey Protein"
+      "name": "Muscle Blaze Breakfast Cereal",
+      "image": "https://m.media-amazon.com/images/I/91htN1QGpjL._SL1500_.jpg",
+      "price": "750",
+      "quantity": "1",
+      "description": "High Protien Breakfast Cereal"
     },
     {
       "id": 12,
-      "name": "Fit Body",
-      "image": "https://m.media-amazon.com/images/I/616cI2pfTOL._SL1200_.jpg",
-      "price": "6345",
+      "name": "Muscle Blaze Mass Gainer",
+      "image": "https://m.media-amazon.com/images/I/61Rf4GOgYVL._SL1500_.jpg",
+      "price": "2500",
       "quantity": "1",
-      "description": "100% Whey Protein"
+      "description": "High Calorie Mass Gainer"
     },
     {
       "id": 13,
-      "name": "ON Whey",
-      "image": "https://m.media-amazon.com/images/I/616cI2pfTOL._SL1200_.jpg",
-      "price": "6345",
-      "quantity": "8",
-      "description": "100% Whey Protein"
+      "name": "ON Mass Gainer",
+      "image": "https://m.media-amazon.com/images/I/61gsPs2jCkL._SL1500_.jpg",
+      "price": "450",
+      "quantity": "1",
+      "description": "High Calorie Mass Gainer"
     },
     {
       "id": 14,
-      "name": "Quista Pro",
-      "image": "https://cdn.shopify.com/s/files/1/0272/4714/9155/products/Quista-PRO-Chocolate-Final-1kg_1024x1024.jpg?v=1660224105",
-      "price": "6345",
-      "quantity": "5",
-      "description": "100% Whey Protein"
+      "name": "ON Fish Oil",
+      "image": "https://m.media-amazon.com/images/I/61Mc8ujA65L._SL1500_.jpg",
+      "price": "550",
+      "quantity": "1",
+      "description": "Fish Oil Tablets"
     },
     {
       "id": 15,
-      "name": "Muscle Blaze",
-      "image": "https://m.media-amazon.com/images/I/616cI2pfTOL._SL1200_.jpg",
-      "price": "6345",
-      "quantity": "2",
-      "description": "100% Whey Protein"
-    },
-    {
-      "id": 16,
-      "name": "Fit Body",
-      "image": "https://m.media-amazon.com/images/I/616cI2pfTOL._SL1200_.jpg",
-      "price": "6345",
+      "name": "Muscle Blaze Peanut Butter",
+      "image": "https://m.media-amazon.com/images/I/71T2evlx0EL._SL1500_.jpg",
+      "price": "500",
       "quantity": "1",
-      "description": "100% Whey Protein"
+      "description": "High Protien Peanut Butter"
     }
+    
   ]
 }
