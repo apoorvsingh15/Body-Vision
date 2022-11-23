@@ -15,13 +15,9 @@ const contentStyle = {
 function Home() {
   const navigate = useNavigate();
 
-  const onChange = (currentSlide) => {
-    console.log(currentSlide);
-  };
-
   return (
     <>
-      <Carousel afterChange={onChange} autoplay>
+      <Carousel autoplay>
         <div>
           <h3 style={contentStyle}>
             <img
