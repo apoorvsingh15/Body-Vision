@@ -26,6 +26,49 @@ import Checkout from '../containers/Checkout';
 import Signup from '../containers/Auth/Signup';
 import { logout } from '../redux/slice/userSlice';
 
+function Footer() {
+  return (
+    <div
+      style={{
+        display: 'flex',
+        padding: 20,
+        marginTop: 240,
+        bottom: 0,
+        background: '#ccc',
+        height: 150,
+        justifyContent: 'space-between',
+      }}
+    >
+      <div>
+        <img
+          alt="gym3"
+          src="https://static1.hkrtcdn.com/hknext/static/media/common/footer/A-G.svg"
+        />
+        <img
+          alt="gym3"
+          src="https://static1.hkrtcdn.com/hknext/static/media/common/footer/RP.svg"
+          style={{ marginLeft: 20 }}
+        />
+      </div>
+
+      <div style={{ marginLeft: 20, display: 'flex', alignItems: 'center' }}>
+        Copyright © 2022, BodyVision.com, or its affiliates
+      </div>
+      <div>
+        <h2 style={{ marginRight: 10 }}>Soon on:</h2>
+        <img
+          alt="gym3"
+          src="https://static1.hkrtcdn.com/hknext/static/media/common/footer/App-Store.svg"
+        />
+        <img
+          alt="gym3"
+          src="https://static1.hkrtcdn.com/hknext/static/media/common/footer/Google-Play.svg"
+        />
+      </div>
+    </div>
+  );
+}
+
 function Header() {
   const navigate = useNavigate();
   const dispatch = useDispatch();
@@ -104,6 +147,7 @@ export default function AppRoutes() {
           <Route exact path="/cart" element={<Cart />} />
           <Route exact path="/checkout" element={<Checkout />} />
         </Routes>
+        {isUserAuthenticated && <Footer />}
       </Router>
     </div>
   );
